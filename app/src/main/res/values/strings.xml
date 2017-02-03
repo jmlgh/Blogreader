@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blogreader_JavierMartinezLizama</string>
+    <string name="tv_entradas">¿Cuántas entradas de blog quieres leer?</string>
+    <string name="btn_leer">LEER!!</string>
+    <string name="toast_numero_valido">Introduce un numero valido</string>
+    <string name="toast_sin_internet">Sin conexión a internet!</string>
+    <string name="tag_error">Error al recuperar la informacion</string>
+</resources>
